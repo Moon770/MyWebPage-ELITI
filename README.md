@@ -1,2 +1,2 @@
-Olá, eu sou o oPedro Henrique! 
+Olá, eu sou o Pedro Henrique! 
 https://mywebpage-eliti.vercel.app/
